@@ -1,0 +1,31 @@
+@import 'bootstrap';
+
+header .container-lg {
+    background-color: rgb(114, 126, 135);
+    color: rgb(116, 131, 144);
+    text-align: center;
+}
+
+/* Custom styles */
+.custom-navbar {
+    background-color: #272727;
+}
+
+.custom-nav-link {
+    color: #fff;
+    font-weight: bold;
+}
+
+.custom-carousel {
+    width: 80%; /* Set the width as needed */
+    max-width: 600px;
+    height: 400px; /* Set the height as needed */
+}
+
+.card-body {
+    img{
+    width: 50%;
+    height:80vh;
+    }
+}
+

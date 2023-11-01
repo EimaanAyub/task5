@@ -1,0 +1,14 @@
+header .container-lg {
+  background-color: rgb(114, 126, 135);
+  color: rgb(116, 131, 144);
+  text-align: center;
+}
+
+.custom-navbar {
+  background-color: #272727;
+}
+
+.custom-nav-link {
+  color: #fff;
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */

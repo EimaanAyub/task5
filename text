@@ -1,0 +1,40 @@
+ <div id="menu" style="background-color: #f9f9f9; padding: 20px;">
+        <h2 style="font-size: 24px;">Our Menu</h2>
+        <!-- Menu Items -->
+        <div style="display: flex; justify-content: space-between;">
+            <!-- Item 1 -->
+            <div style="flex: 1; padding: 10px; margin: 10px; background-color: #fff; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); text-align: center;">
+                <h3 style="font-size: 20px; margin: 10px 0;">Egg and Cheese Sandwich</h3>
+                <p style="font-size: 16px;">A delicious sandwich with scrambled eggs and melted cheese.</p>
+                <p class="price" style="font-size: 18px; margin: 10px 0; font-weight: bold;">899 PKR</p>
+                <!-- Image for Menu Item 1 -->
+                <img src="images/menu-item1.jpg" alt="Egg and Cheese Sandwich" style="max-width: 100%; height: auto; margin-top: 20px;">
+            </div>
+            <!-- Item 2 -->
+            <div style="flex: 1; padding: 10px; margin: 10px; background-color: #fff; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); text-align: center;">
+                <h3 style="font-size: 20px; margin: 10px 0;">Pancakes Stack</h3>
+                <p style="font-size: 16px;">Fluffy pancakes served with maple syrup.</p>
+                <p class="price" style="font-size: 18px; margin: 10px 0; font-weight: bold;">1250 PKR</p>
+                <!-- Image for Menu Item 2 -->
+                <img src="images/menu-item2.jpg" alt="Pancakes Stack" style="max-width: 100%; height: auto; margin-top: 20px;">
+            </div>
+        </div>
+        <!-- Add more menu items here -->
+    </div>
+
+
+    <div id="team" style="background-color: #fff; padding: 20px;">
+        <h2 style="font-size: 24px;">Our Team</h2>
+        <p style="font-size: 16px;">Meet our wonderful team at Café De Peshawar. We are dedicated to providing exceptional service and creating memorable experiences for our valued customers.</p>        
+        <!-- Image Gallery for About Us -->
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-top: 20px;">
+            <!-- Employee Image 1 -->
+            <img src="images/employee1.jpg" alt="Employee 1" style="flex: 1; max-width: 25%; height:  auto;">
+            <img src="images/employee4.jpg" alt="Employee 2" style="flex: 1; max-width: 25%; height:  auto;">
+            <!-- Employee Image 3 -->
+            <img src="images/employee6.jpg" alt="Employee 3" style="flex: 1; max-width: 25%; height:  auto;">
+            <!-- Employee Image 4 -->
+            <img src="images/employee5.jpg" alt="Employee 4" style="flex: 1; max-width: 25%; height:  auto;">
+       
+        </div>
+    </div>
